@@ -8,3 +8,7 @@ at Villains Academy
 ```shell
 ruby directory.rb
 ```
+or
+```shell
+ruby directory.rb students.csv
+```
